@@ -1,0 +1,7 @@
+streamlit
+pandas
+nest-asyncio
+playwright
+beautifulsoup4
+matplotlib
+seaborn
